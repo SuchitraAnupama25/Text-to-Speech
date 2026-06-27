@@ -177,23 +177,7 @@ button:hover {
     font-size: 14px;
 }
 
-/* ================== Footer ================== */
-.footer {
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
-    padding: 12px 0;
-    background: rgba(0,0,0,0.6);
-    color: #fff;
-    font-size: 14px;
-    backdrop-filter: blur(6px);
-    box-shadow: 0 -2px 10px rgba(0,0,0,0.3);
-}
 
-.footer p {
-    margin: 2px 0;
-}
 /* Responsive adjustments */
 /* Optional: Make image adapt better on small screens */
 @media screen and (max-width: 768px) {
